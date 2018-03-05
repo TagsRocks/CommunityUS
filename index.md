@@ -10,6 +10,24 @@ _Playing around with the idea of an open company and exploring what that means. 
 
 
 
+
+
+
+How to get Office 365 and many other Microsoft services for free! Steal it.
+
+#Full disclosure we are a Microsoft Partner.
+
+Artists need business tools to survive. Open Office/GIMP/Mono are great projects. They exemplify what we mean by good code is forked, great code is stolen! We encourage further use and development of the projects. _What we say, have both._
+Create a GitHub issue with us, to get started with our campus wide grass root tag the campus campaign with Microsoft Office 365 art. Details and rules here...no vandalism obviously.
+
+
+
+
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
