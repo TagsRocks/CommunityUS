@@ -50,4 +50,40 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+What we do: [soon]
+
+Productivity
+Cloud Productivity
+Small and Midmarket Cloud Solutions
+Collaboration and Content
+Communications
+Messaging
+Project and Portfolio Management
+
+App Dev and ISV
+Application Development
+Application Integration
+DevOps
+
+Cloud Platform & Infra
+Cloud Platform
+Datacenter
+
+Data Mgmt & Analytics
+Data Analytics
+Data Platform
+
+Business Applications
+Cloud Business Applications
+Cloud Customer Relationship Management
+Enterprise Resource Planning
+
+Mobility
+Enterprise Mobility Management
+Windows and Devices
+
+[Skip to Main Content]
+
+
 ```
