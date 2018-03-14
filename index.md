@@ -66,26 +66,26 @@ Eric [pic]
 _Playing around with the idea of an open company and exploring what that means._
 
 
-
+```markdown
 ```tongue-in-cheek``` **Good code is forked, great code is stolen.**
-
+```
 As an example:
-Building for the modern workplace—Code never dies, it just gets upgraded, refined, and improved. 
+_Building for the modern workplace—Code never dies, it just gets upgraded, refined, and improved._
 
-What we do: [soon]
-
-
+#What we do: [soon]
 
 
+
+```markdown
 #Hours:
 #M-F: _9a-5p_
 #On Call: **Yes**
 
 (980) 222-4253
+```
 _______________________________________________________________
-_______________________________________________________________
-_______________________________________________________________>
-#3313 W. Cherry Ln #801, Meridian ID 83642
-
+```markdown
+3313 W. Cherry Ln #801, Meridian ID 83642
+```
 
 [Skip to Main Content]
