@@ -13,7 +13,7 @@ Collaboration and Content
 Communications
 Messaging
 Project and Portfolio Management
-```markdown
+```
 
 
 Coming Soon: (_Sales_)
@@ -24,7 +24,7 @@ Cloud Productivity
 Cloud Platform & Infra
 Cloud Platform
 Datacenter
-```markdown
+```
 
 Field:
 Tom [pic]
@@ -39,7 +39,7 @@ Enterprise Resource Planning
 Mobility
 Enterprise Mobility Management
 Windows and Devices
-```markdown
+```
 
 Product Development:
 Matt [pic]
@@ -49,7 +49,7 @@ App Dev and ISV
 Application Development
 Application Integration
 DevOps
-```markdown
+```
 
 Legals and Compliance:
 David [pic]
@@ -77,9 +77,9 @@ What we do: [soon]
 
 
 
-*Hours:
-M-F: 9a-5p
-On Call: Yes
+Hours:
+M-F: _9a-5p_
+On Call: **Yes**
 
 (980) 222-4253
 _______________________________________________________________
