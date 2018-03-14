@@ -72,14 +72,14 @@ _Playing around with the idea of an open company and exploring what that means._
 As an example:
 _Building for the modern workplace—Code never dies, it just gets upgraded, refined, and improved._
 
-#What we do: [soon]
+## What we do: [soon]
 
 
 
 ```markdown
-#Hours:
-#M-F: _9a-5p_
-#On Call: **Yes**
+## Hours:
+M-F: _9a-5p_
+On Call: **Yes**
 
 (980) 222-4253
 ```
